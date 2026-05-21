@@ -1,4 +1,4 @@
-A# The-Unseen-Crisis-Group-9
+# The-Unseen-Crisis-Group-9
 
 An interactive data storytelling dashboard exploring global inequality in mental health access, infrastructure, and treatment availability. The project combines healthcare, economic, and mental health indicators to uncover how countries with lower economic capacity often face significantly higher treatment gaps and weaker mental health support systems.
 
