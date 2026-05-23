@@ -144,6 +144,63 @@ streamlit run app.py
 * Tableau Public
 
 ---
+# Collaboration and Workflow
+
+This project followed an integrated and highly collaborative studio workflow, where all team members contributed across multiple stages of dashboard development, storytelling, visual refinement, and presentation preparation.
+
+The team primarily collaborated through WhatsApp communication and regular in-person working sessions at the University of Technology Sydney. Across the duration of the project, the group conducted approximately 7–8 in-person collaboration sessions, each averaging around 4 hours, alongside multiple virtual Google Meet discussions for progress reviews and integration.
+
+Rather than dividing the project into isolated tasks, the team adopted a collaborative co-development approach where major design, storytelling, and analytical decisions were collectively discussed, researched, reviewed, and finalized before implementation. This ensured consistency across the dashboard narrative, visual design system, and stakeholder-focused storytelling structure.
+
+All dashboard concepts, visual choices, interaction logic, and narrative directions were iteratively refined through group feedback and discussion.
+
+## Team Contributions
+
+### Dashboard Development
+
+All team members contributed to dashboard planning, ideation, and development.
+
+### Data Cleaning and Preparation
+
+* Vedang Gosavi
+* Prachi Dhimate
+
+### Narration and Storytelling
+
+* Pon Saranya Krishnan
+
+### UI and Visual Design
+
+* Pon Saranya Krishnan
+* Rohan Yadav
+* Chakshu Karwal
+
+### Presentation Development
+
+* Vedang Gosavi
+* Chakshu Karwal
+* Rohan Yadav
+
+### Documentation
+
+* Nana Ama Goldwater
+* Pon Saranya Krishnan
+
+### Visual Asset Design
+
+* Rohan Yadav
+* Chakshu Karwal
+* Nana Ama Goldwater
+
+### GitHub Integration and Repository Management
+
+* Prachi Dhimate
+* Vedang Gosavi
+* Rohan Yadav
+
+The project workflow emphasized collaborative iteration, shared accountability, and continuous peer feedback throughout the development process.
+
+---
 
 # Contributors
 
