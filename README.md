@@ -96,7 +96,7 @@ project-folder/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Vego08/The-Unseen-Crisis-Group-9.git
+git clone https://github.com/RETO7513/The-Unseen-Crisis-Group-9.git
 ```
 
 ## 2. Install Dependencies
