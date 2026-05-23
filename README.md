@@ -202,16 +202,6 @@ The project workflow emphasized collaborative iteration, shared accountability, 
 
 ---
 
-# Contributors
-
-* Dashboard Development
-* Data Cleaning and Analysis
-* Narrative Design and Storytelling
-* Visual Design and Presentation
-* Documentation and Deployment
-
----
-
 # Key Insight
 
 The project demonstrates that the global mental health crisis is not solely a healthcare issue, but a structural inequality issue shaped by economic capacity, healthcare investment, and access to treatment systems.
