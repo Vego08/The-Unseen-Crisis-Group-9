@@ -16,19 +16,19 @@ The dashboard was designed for policymakers, healthcare stakeholders, researcher
 
 # Narrative Structure
 
-## A Silent Global Crisis
+## 1. A Silent Global Crisis
 
 Introduces the global scale and severity of mental health challenges using geographic visualization.
 
-## Not All Countries Suffer Equally
+## 2. Not All Countries Suffer Equally
 
 Explores the relationship between economic capacity and mental healthcare access through inequality analysis.
 
-## Access to Care Is the Real Divide
+## 3. Access to Care Is the Real Divide
 
 Highlights disparities in mental health infrastructure, workforce availability, and treatment systems.
 
-## Intervention Can Change Outcomes
+## 4. Intervention Can Change Outcomes
 
 Demonstrates how increased investment and policy intervention can improve mental healthcare readiness through interactive simulations.
 
