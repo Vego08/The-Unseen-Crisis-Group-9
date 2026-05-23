@@ -427,7 +427,7 @@ html {{ scroll-behavior: smooth; }}
 # 4. DATA LOADING (cached)
 # ============================================================
 @st.cache_data(show_spinner=False)
-def load_data(path: str = "data/merged_dataset.csv") -> pd.DataFrame:
+def load_data(path: str = "merged_dataset.csv") -> pd.DataFrame:
     df = pd.read_csv(path)
     for col in ["country", "iso3", "region", "income_group"]:
         if col in df.columns:
