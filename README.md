@@ -79,13 +79,9 @@ Users can simulate increases in mental health investment to observe projected ch
 ```text
 project-folder/
 │
-├── app.py
+├── main.py
 ├── requirements.txt
-├── merged_dataset.xlsx
-├── assets/
-│   ├── background.png
-│   ├── logo.png
-│
+├── merged_dataset.csv
 ├── README.md
 ```
 
